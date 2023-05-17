@@ -12,3 +12,9 @@
 <a href="https://www.figma.com/file/HeiDrk46rJolhuY97RBmpK/Untitled?type=design&node-id=11%3A2&t=wf4Hfnf0baaMQLHG-1">Projeto no Figma</a>
 
 <img src="https://raw.githubusercontent.com/siqueira91/Dio-UX-Designer/main/02-Design-system.png"> 
+
+<h3>03 - Criando um Protótipo Navegável</h3>
+
+<a href="https://www.figma.com/file/HeiDrk46rJolhuY97RBmpK/Untitled?type=design&node-id=16%3A86&t=zLT25fnVwJuiek57-1">Projeto no Figma</a>
+
+<img src="https://raw.githubusercontent.com/siqueira91/Dio-UX-Designer/main/03-prototipo-navegavel.png"> 
